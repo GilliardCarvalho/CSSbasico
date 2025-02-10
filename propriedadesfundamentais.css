@@ -1,0 +1,23 @@
+.propriedadesdeFonte{
+    font-size: 20px;
+    color:rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    text-decoration: dashed;
+
+}
+
+.quadrado{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: solid 5px orange;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+
+.pai{
+    display: flex;
+    flex:1;
+}
